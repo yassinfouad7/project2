@@ -1,7 +1,3 @@
-Here is a clean, professional **README.md** for your second report:
-
----
-
 # Data Analysis Project – Student Performance and Lifestyle Analysis
 
 ## Overview
